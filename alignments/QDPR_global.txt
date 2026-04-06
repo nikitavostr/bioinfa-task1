@@ -1,0 +1,19 @@
+target            0 MAAAAAAGEARRVLVYGGRGALGSRCVQAFRARNWWVASVDVVENEEASASIIVKMTDSF
+                  0 |---||.||||||||||||||||||||||||||||||||.|||||||||||..|||||||
+query             0 M---AASGEARRVLVYGGRGALGSRCVQAFRARNWWVASIDVVENEEASASVVVKMTDSF
+
+target           60 TEQADQVTAEVGKLLGEEKVDAILCVAGGWAGGNAKSKSLFKNCDLMWKQSIWTSTISSH
+                 60 |||||||||.||||||..|||||||||||||||||||||||||||.|||||.||||||||
+query            57 TEQADQVTADVGKLLGDQKVDAILCVAGGWAGGNAKSKSLFKNCDMMWKQSMWTSTISSH
+
+target          120 LATKHLKEGGLLTLAGAKAALDGTPGMIGYGMAKGAVHQLCQSLAGKNSGMPPGAAAIAV
+                120 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+query           117 LATKHLKEGGLLTLAGAKAALDGTPGMIGYGMAKGAVHQLCQSLAGKNSGMPPGAAAIAV
+
+target          180 LPVTLDTPMNRKSMPEADFSSWTPLEFLVETFHDWITGKNRPSSGSLIQVVTTEGRTELT
+                180 ||||||||||||||||||||||||||||||||||||||..||.||||||||||.|.||||
+query           177 LPVTLDTPMNRKSMPEADFSSWTPLEFLVETFHDWITGNKRPNSGSLIQVVTTDGKTELT
+
+target          240 PAYF 244
+                240 |||| 244
+query           237 PAYF 241
